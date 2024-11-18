@@ -41,8 +41,8 @@ def start(d: Message):
         '/add_vps - Buat droplets\n' \
         '/sett_vps - Kelola droplets\n' \
         ' \n' \
-        '<b>Dev: @yha_bot</b> 👨‍💻\n' \
-        '<b>Support: @fightertunnell</b> 🛡️'
+        '<b>Dev: @kuykuyss</b> 👨‍💻\n' \
+        '<b>Support: @kuysjualann</b> 🛡️'
     bot.send_message(
         text=t,
         chat_id=d.from_user.id,
